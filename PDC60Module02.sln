@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDC60Module02.Android", "PDC60Module02\PDC60Module02.Android\PDC60Module02.Android.csproj", "{75DC321E-D3C7-47F1-BCEA-52F92AA26104}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDC60Module02", "PDC60Module02\PDC60Module02\PDC60Module02.csproj", "{300C8F49-E1C4-43F6-B721-0C02D37B057F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PDC60Module02", "PDC60Module02\PDC60Module02\PDC60Module02.csproj", "{300C8F49-E1C4-43F6-B721-0C02D37B057F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
